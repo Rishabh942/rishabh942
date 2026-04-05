@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header" width="600" height="350" />
+<img src="src/assets/212812.gif" alt="header" width="600" height="350" />
 </div>
 
 <h1 align="center">Hi, I'm Rishabh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -17,7 +17,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 
 - 🔭 I’m currently working on **my portfolio site** and assorted programming projects.
 
-- 👯 I’m looking to collaborate on **Rust-based systems** or **NLP research**.
+- 👯 I’m looking to collaborate on **Rust-based systems** or **ML research**.
 
 - 👨‍💻 Most of my work involves **Javascript, C, Java, Python, Rust**.
 
@@ -39,8 +39,13 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
 </div>
 
 <br>
@@ -48,9 +53,9 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 
 <h1 align="center">Let's Connect</h1>
 <p align="center">
-  <a href="mailto:rishabhmahesh7@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-  <a href="https://github.com/Rishabh942"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/rishabh-mahesh"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+  <a href="mailto:rishabhmahesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title='Gmail' alt="Gmail"/></a>
+  <a href="https://github.com/Rishabh942"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title='GitHub' alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/rishabh-mahesh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
