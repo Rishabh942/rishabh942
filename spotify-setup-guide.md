@@ -57,13 +57,13 @@ Name: SPOTIFY_REFRESH_TOKEN
 Value: MY_REFRESH_TOKEN
 ```
 
-8. Once done, navigate to one of your deployment url's and place "/now-playing" at the end. For example, "https://now-playing-joshlmao.vercel.app/now-playing"
+8. Once done, navigate to one of your deployment url's and place **`/api/now-playing`** at the end (Vercel maps `api/now-playing.ts` to this path—not `/now-playing`). For example, `https://now-playing-joshlmao.vercel.app/api/now-playing`
 
 9. Replace "MY_VERCEL_DEPLOYMENT_URL" in the following code with one of your deployment url's and insert it into any ReadMe.md
 
 ```
-<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
-    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://MY_VERCEL_DEPLOYMENT_URL/api/now-playing?open">
+    <img src="https://MY_VERCEL_DEPLOYMENT_URL/api/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 ```
 
