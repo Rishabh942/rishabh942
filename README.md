@@ -8,6 +8,10 @@
   <a href="https://github.com/Rishabh942"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=CS+at+Purdue+University+%F0%9F%9A%82;Full+Stack+%2B+ML+Enthusiast+%F0%9F%92%BB&center=true&width=500&height=50"></a>
 </p>
 
+<div align="center">
+  <img src="src/assets/purdue.gif" alt="Purdue University" width="832" height="406" />
+</div>
+
 <h3 align="center">
 I'm a Computer Science student and Full Stack Developer based in the SF Bay Area. I'm passionate about building immersive 3D web experiences (coming soon!), exploring Machine Learning, developing applications with real effects on the world, and even contributing to open source projects (new).
 </h3>
