@@ -30,7 +30,7 @@ export default {
 
       return new Response(null, { status: 200 });
     }
-    const { duration_ms: duration, name: track } = item ?? {};
+    const { duration_ms: duration = 0, name: track } = item ?? {};
     const { images = [] } = item?.album ?? {};
 
     const cover = images[images.length - 1]?.url;

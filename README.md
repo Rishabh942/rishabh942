@@ -16,7 +16,7 @@ My passion for building high-polish, delightful devtools is informed by my backg
 
 | 🎵 Now Playing                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://rishabh942-ily43fuhi-rishabh942s-projects.vercel.app/api/now-playing"><img src="https://rishabh942-ily43fuhi-rishabh942s-projects.vercel.app/api/now-playing" width="540" height="64"></a> |
+| <a href="https://rishabh942-ily43fuhi-rishabh942s-projects.vercel.app/api/now-playing?open"><img src="https://rishabh942-ily43fuhi-rishabh942s-projects.vercel.app/api/now-playing" width="540" height="64"></a> |
 
 <table>
   <thead>

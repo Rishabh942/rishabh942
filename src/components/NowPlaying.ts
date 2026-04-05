@@ -25,8 +25,8 @@ export const Player = ({
       <div
         class="${isPlaying ? 'disabled' : 'active'}"
         style=${{
-          "--duration": duration,
-          "--progress": progress,
+          "--duration": duration ?? 0,
+          "--progress": progress ?? 0,
           display: "flex",
           alignItems: "center",
           paddingTop: 8,
@@ -40,7 +40,7 @@ export const Player = ({
         >
           ${isPlaying ? "▶" : ""}
         </${Text}>
-        <img id="cover" src="${cover ?? undefined}" width="48" height="48" />
+        <img id="cover" width="48" height="48" src=${cover} />
         <div
           style=${{
             display: "flex",
