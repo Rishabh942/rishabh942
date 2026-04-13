@@ -57,7 +57,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 <p align="center">
   <a href="mailto:rishabhmahesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title='Gmail' alt="Gmail"/></a>
   <a href="https://github.com/Rishabh942"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title='GitHub' alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/rishabh-mahesh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/rishabhmahesh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
