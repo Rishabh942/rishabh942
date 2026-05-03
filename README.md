@@ -9,14 +9,12 @@
 </p>
 
 
-
 <h3 align="center">
 I'm a Computer Science student and Full Stack Developer based in the SF Bay Area. I'm passionate about building immersive 3D web experiences (coming soon!), exploring Machine Learning, developing applications with real effects on the world, and even contributing to open source projects (new).
 </h3>
 
  <br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" />
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
 
 - 🔭 I’m currently working on **my portfolio site** and assorted programming projects.
 
@@ -28,8 +26,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 
 - ⚡ Fun fact: **I build custom mechanical keyboards!**
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" />
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
 <div align="center">
 <h1>Languages and Tools 💻</h1>
 
@@ -52,8 +49,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 </div>
 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" />
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
 <h1 align="center">Let's Connect</h1>
 <p align="center">
   <a href="mailto:rishabhmahesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title='Gmail' alt="Gmail"/></a>
@@ -61,29 +57,57 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
   <a href="https://linkedin.com/in/rishabhmahesh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
+<div align="center">
+  
+  <table width="540">
+    <thead>
+      <tr>
+        <th align="center">🎵 Now Playing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://rishabh942.vercel.app/api/now-playing?open">
+            <img src="https://rishabh942.vercel.app/api/now-playing" width="540" height="64">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-| 🎵 Now Playing                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://rishabh942.vercel.app/api/now-playing?open"><img src="https://rishabh942.vercel.app/api/now-playing" width="540" height="64"></a> |
+  <br />
 
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://rishabh942.vercel.app/api/top-tracks?i=1&open"><img src="https://rishabh942.vercel.app/api/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://rishabh942.vercel.app/api/top-tracks?i=2&open"><img src="https://rishabh942.vercel.app/api/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://rishabh942.vercel.app/api/top-tracks?i=3&open"><img src="https://rishabh942.vercel.app/api/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
+  <table width="540">
+    <thead>
+      <tr>
+        <th align="center">📈 Top Tracks</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://rishabh942.vercel.app/api/top-tracks?i=1&open">
+            <img src="https://rishabh942.vercel.app/api/top-tracks?i=1" width="540" height="64">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://rishabh942.vercel.app/api/top-tracks?i=2&open">
+            <img src="https://rishabh942.vercel.app/api/top-tracks?i=2" width="540" height="64">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://rishabh942.vercel.app/api/top-tracks?i=3&open">
+            <img src="https://rishabh942.vercel.app/api/top-tracks?i=3" width="540" height="64">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
