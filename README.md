@@ -14,7 +14,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 </h3>
 
  <br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
+
 
 - 🔭 I’m currently working on **my portfolio site** and assorted programming projects.
 
@@ -26,7 +26,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 
 - ⚡ Fun fact: **I build custom mechanical keyboards!**
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
+
 <div align="center">
 <h1>Languages and Tools 💻</h1>
 
@@ -49,7 +49,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 </div>
 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
+
 <h1 align="center">Let's Connect</h1>
 <p align="center">
   <a href="mailto:rishabhmahesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title='Gmail' alt="Gmail"/></a>
@@ -57,7 +57,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
   <a href="https://linkedin.com/in/rishabhmahesh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="100%" border="0" alt="animated-line-image-0168" />
+
 <div align="center">
   
   <table width="540">
