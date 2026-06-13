@@ -16,7 +16,7 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
  <br />
 
 
-- 🔭 I’m currently working on **my portfolio site** and on **BGP routing formal methods** at The Linux Foundation and Sonic.
+- 🔭 I’m currently working on **BGP routing formal methods** at The Linux Foundation and Sonic.
 
 - 👯 I’m looking to collaborate on **software-based systems** or **ML research**.
 
@@ -25,6 +25,8 @@ I'm a Computer Science student and Full Stack Developer based in the SF Bay Area
 - 📫 Reach me via email at **rishabhmahesh0@gmail.com**.
 
 - ⚡ Fun fact: **I build custom mechanical keyboards!**
+
+- Check out my [personal website](https://rishabhmahesh.me)
 
 
 <div align="center">
