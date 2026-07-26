@@ -10,7 +10,7 @@
 
 
 <h3 align="center">
-I'm a Computer Science student and Full Stack Developer based in the SF Bay Area. I'm passionate about building immersive 3D web experiences (coming soon!), exploring Machine Learning, developing applications with real effects on the world, and even contributing to open source projects (new).
+I'm a Computer Science student and Full Stack Developer based in the SF Bay Area. I'm passionate about building all types of software, Machine Learning, developing applications with real effects on the world, and contributing to open source projects.
 </h3>
 
  <br />
