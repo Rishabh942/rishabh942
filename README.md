@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="src/assets/purdue.gif" alt="Purdue University" width="650" height="300" />
-</div>
-
-<h1 align="center">Hi, I'm Rishabh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
   <a href="https://github.com/Rishabh942"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=CS+at+Purdue+University+%F0%9F%9A%82;Full+Stack+%2B+ML+Enthusiast+%F0%9F%92%BB&center=true&width=500&height=50"></a>
 </p>
